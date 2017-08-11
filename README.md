@@ -16,8 +16,8 @@ Homepage for the challenge: http://cpan-prc.org/
 
 
 # Getting Involved
-
-
+* Team Github account
+* Email Neil Bowers
 
 # Getting organised
 
@@ -28,9 +28,6 @@ Homepage for the challenge: http://cpan-prc.org/
 > Having a fixed finish time is helpful too, it helps some people decide if they can attend.
 
 
-# Monthly event
-
-
 
 ## Pre-event
 * Send invitation. Send your invitation to a wide audience... not just developers.
@@ -39,8 +36,22 @@ Homepage for the challenge: http://cpan-prc.org/
 > Include the date, times and objectives of the evening. New people might not even know what you are talking about.
 > We put links to the module and where possible a quick explanation of what the module is about.
 
+* Email the module author
+
+> We email the author of the module in advance and let them know what we are planning on doing.
+> We often get a reply and suggestions on things to look at and things to avoid.
+
 ## Event
+* Food
+* Introduction
+* Code
+* Finish
+
+
 ## Post-event
+* Follow-up
+** Email Neil Bowers and say "Done".
+** Email the author
 
 # Summary
 
