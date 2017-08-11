@@ -39,7 +39,7 @@ After the 2014 "CPAN Day", Neil Bowers created the Pull Request Challenge. In 20
 
 * Email the module author
 > We email the author of the module in advance and let them know what we are planning on doing.
-> We often get a reply and suggestions on things to look at and things to avoid.
+> We often get a reply and suggestions on things to look at and things to avoid. Share those replies with the participants/invitees.
 
 * Encourage participation and exploration
 > If people have played with the odule, browsed the code, looked at the bug tracker it can really help on the day/evening of the event.
@@ -59,9 +59,16 @@ After the 2014 "CPAN Day", Neil Bowers created the Pull Request Challenge. In 20
 
 ## Post-event
 * Tidy-up (do the dishes, etc)
-* Email Neil Bowers and say "Done".
-* Email the author
+> Be nice to your office colleagues, tidy up and do good job of it. You do not want to annoy people.
+> Equally, that time cleaning up is chat time, getting to know peopl time... which is valuable.
 
+* Email Neil Bowers and say "Done".
+> Collect the url(s) for your pull request(s) and reply back to the original assignment email saying that you finished ("Done") along with the pullrequests URL(s).
+
+* Email the author
+> Let the author know you held the event and what you did, tell them you made some pull requests.
+> At CV-Library we have found that the authors react really positively,
+> Share any/all replies from the author with everyone (perhaps just snippets).
 # Summary
 
 
