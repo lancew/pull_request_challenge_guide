@@ -47,10 +47,15 @@ After the 2014 "CPAN Day", Neil Bowers created the Pull Request Challenge. In 20
 
 ## Event
 * Food
+> We order food (normally pizza), and we do it first and get it delivered.
 * Introduction
+> While we wait for the food to arrive, we get everyone together and talk about the module. We look at the bug tracker, kwalitee etc.
+> We will talk and decide some ideas on what we want to try and do, we will then try and decide who will work together on which ideas.
 * Code
+> We try to get people who don't work together normally to work together on tasks.
+> We ecourage a branch per task tomake pull requests easier and also so that others failed builds do not block other people :-)
 * Finish
-
+> People will drift away depending on their timetables, but it is worth perhaps deciding on a hard finish time (some people will try and stay all night).
 
 ## Post-event
 * Tidy-up (do the dishes, etc)
