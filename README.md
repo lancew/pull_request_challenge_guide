@@ -42,7 +42,7 @@ After the 2014 "CPAN Day", Neil Bowers created the Pull Request Challenge. In 20
 > We often get a reply and suggestions on things to look at and things to avoid. Share those replies with the participants/invitees.
 
 * Encourage participation and exploration
-> If people have played with the odule, browsed the code, looked at the bug tracker it can really help on the day/evening of the event.
+> If people have played with the module, browsed the code, looked at the bug tracker it can really help on the day/evening of the event.
 > Much time can be lost if nobody has explored the module in advance.
 
 ## Event
