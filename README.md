@@ -61,9 +61,11 @@ After the 2014 "CPAN Day", Neil Bowers created the Pull Request Challenge. In 20
 > * We have started also integrating Kritika.io to identify perlcritic type issues (running perlcritic is also a good idea)
 * Fork the project
 > We fork the branch with our corporate github account, all team members are given access.
+* Clone the repo
+> Everyone clones our fork of the project.
+> We create a branch per task, this helps isolate changes and make pull requests easier.
 * Code
 > We try to get people who don't work together normally to work together on tasks.
-> We ecourage a branch per task to make pull requests easier and also so that others failed builds do not block other people :-)
 * Finish
 > People will drift away depending on their timetables, but it is worth perhaps deciding on a hard finish time (some people will try and stay all night).
 
