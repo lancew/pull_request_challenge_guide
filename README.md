@@ -51,6 +51,14 @@ After the 2014 "CPAN Day", Neil Bowers created the Pull Request Challenge. In 20
 * Introduction
 > While we wait for the food to arrive, we get everyone together and talk about the module. We look at the bug tracker, kwalitee etc.
 > We will talk and decide some ideas on what we want to try and do, we will then try and decide who will work together on which ideas.
+* Todo list
+> We try to write a list of possible tasks on the whiteboard, then put names to them. Ideally we pair people from across teams.
+> We also try and look at the following areas for ideas of what to work on:
+> * Issue tracker(s)
+> * Kwalitee
+> * CPANTS errors
+> * .travis.yaml configuration
+> * We have started also integrating Kritika.io to identify perlcritic type issues (running perlcritic is also a good idea)
 * Code
 > We try to get people who don't work together normally to work together on tasks.
 > We ecourage a branch per task tomake pull requests easier and also so that others failed builds do not block other people :-)
