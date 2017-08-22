@@ -81,6 +81,10 @@ After the 2014 "CPAN Day", Neil Bowers created the Pull Request Challenge. In 20
 > Let the author know you held the event and what you did, tell them you made some pull requests.
 > At CV-Library we have found that the authors react really positively,
 > Share any/all replies from the author with everyone (perhaps just snippets).
+
+* Blog about it!
+> We try and write a blog post about each event and what we enjoyed.
+> As per the advice at YAPC:EU2017, maybe try and work in the term "The Perl Language" to boost TIOBE results! ;-)
 # Summary
 
 
